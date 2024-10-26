@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783870111848",
+    "project_id": "if570lab-uts-rachelle-82784",
+    "storage_bucket": "if570lab-uts-rachelle-82784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783870111848:android:f6ccc0c54b8c82ac2dcbdd",
+        "android_client_info": {
+          "package_name": "com.example.if570_lab_uts_rachellestephanierianto_00000082784"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfDTLbp3nNUHOv0HAZK782zBLbfADv3K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

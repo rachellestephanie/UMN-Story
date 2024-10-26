@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IF570_LAB_UTS_RachelleStephanieRianto_00000082784</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_input_message">Enter Email</string>
+    <string name="password_input_message">Enter Password</string>
+    <string name="regist_button">Register</string>
+    <string name="submit_button">SUBMIT</string>
+
+    <string name="bottom_menu_post">Post</string>
+    <string name="bottom_menu_home">Home</string>
+    <string name="bottom_menu_profile">Profile</string>
+
+    <string name="name_title">Name :</string>
+    <string name="name_value">...</string>
+    <string name="name_hint">Update name</string>
+    <string name="number_title">NIM :</string>
+    <string name="number_value">...</string>
+    <string name="number_hint">Update number</string>
+    <string name="save">SAVE</string>
+
+    <string name="cerita_hint">Apa cerita anda hari ini...</string>
+    <string name="upload">UPLOAD</string>
+
+    <string name="caption_value">...</string>
+</resources>
